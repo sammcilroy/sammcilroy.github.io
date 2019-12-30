@@ -4,7 +4,7 @@
 
 ### Personal Projects
 
-[Twitter Sentiment Analysis: Big Data Streaming Processing](/sample_page)
+[Twitter Sentiment Analysis: Big Data Streaming Processing](/twitter_sentiment_streaming)
 <img src="images/twitter_project.png?raw=true"/>
 
 
