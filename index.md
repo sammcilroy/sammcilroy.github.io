@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Personal Projects
 
-[Project 1 Title](/sample_page)
+[Twitter Sentiment Analysis: Big Data Streaming Processing](/sample_page)
 <img src="images/twitter_project.png?raw=true"/>
 
 
