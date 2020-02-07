@@ -8,7 +8,7 @@
 <img src="images/twitter_project.png?raw=true"/>
 
 [UCL Data Community of Practice Christmas Meetup: Spotify API Data Collection and Visualisation](https://sammcilroy.github.io/ucl_cop_christmas/)
-
+<img src="images/cop.jpg?raw=true"/>
 
 
 
