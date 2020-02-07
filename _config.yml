@@ -1,7 +1,6 @@
 title: Sam McIlroy # your name (or website title) here
 logo: "/images/me.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-theme: jekyll-theme-minimal
   <br><br>
   <b>Data Engineer</b>
   <br><br>
@@ -14,3 +13,4 @@ theme: jekyll-theme-minimal
   <br><br>
   <a href="https://www.linkedin.com/in/sam-mcilroy-4484579a/">View My LinkedIn Profile</a>
 
+theme: jekyll-theme-minimal
