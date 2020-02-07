@@ -2,7 +2,7 @@ title: Sam McIlroy # your name (or website title) here
 logo: "/images/me.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
-  <b>Software/Data Engineer</b>
+  <b>Data Engineer</b>
   <br><br>
   Completed a combined MSc programme in data science and software engineering at Birkbeck, University of London 
   (MSc Data Science). Focused study and final project on software and data engineering, distributed and cloud technologies. 
@@ -12,5 +12,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   Seeking DE/SWE roles, especially within the technology sector.
   <br><br>
   <a href="https://www.linkedin.com/in/sam-mcilroy-4484579a/">View My LinkedIn Profile</a> 
-
+  <br><br>
+  <br><br>
 theme: jekyll-theme-minimal
